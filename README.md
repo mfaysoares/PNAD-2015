@@ -8,4 +8,5 @@ O Instituto Brasileiro de Geografia e Estatística (2015) define a PNAD da segui
 
 Esse repositório apresenta o trabalho de conclusão do curso de **Estatística com Python Parte 1: Frequências e Medidas**, da plataforma Alura. Nesse projeto, foi realizado uma análise estatística descritiva da base de dados do PNAD do ano de 2015, onde o autor procurou implementar todo o conteúdo adquirido ao longo do aprendizado. Abaixo as informações técnicas do projeto:
 
-Notebook :computer: :
+Notebook :computer: : https://github.com/mfaysoares/PNAD-2015/blob/main/An%C3%A1lise_Descritiva.ipynb
+Base de Dados :open_book: : https://www.ibge.gov.br/estatisticas/sociais/populacao/9127-pesquisa-nacional-por-amostra-de-domicilios.html?=&t=downloads
